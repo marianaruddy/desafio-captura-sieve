@@ -4,7 +4,7 @@ Escreva um crawler que visite o site epocacosmeticos.com.br e salve um arquivo .
   * Não é permitido usar o sitemap para pegar todas as urls do site; o site deve de fato ser visitado e parseado para se obter as informações.
   * Exceto pelo Scrapy, você pode usar os frameworks e bibliotecas que quiser, desde que a linguagem principal usada seja Python (2.7 ou 3.x, tanto faz).
 
-Desenvolva seu código nesse repositório e adicione um arquivo INSTALL.txt explicando como instalar e rodar o programa. No final, abra um _pull request_ para a branch master.
+Desenvolva seu código em um local público adicione um arquivo README ou INSTALL explicando como instalar e rodar o programa.
 
 Bonus:
 
