@@ -13,7 +13,15 @@ Obrigatório:
   * Código organizado. Responsabilidade única, nomes (funções, variáveis, arquivos) que fazem sentido etc.
   
 Bônus:
+
   * Arquitetura distribuída.
+
+Responda às seguintes questões de forma discursiva:
+
+  * Agora você tem de capturar dados de outros 100 sites. Quais seriam suas estratégias para escalar a aplicação?
+  * Alguns sites carregam o preço através de JavaScript. Como faria para capturar esse valor.
+  * Alguns sites podem bloquear a captura por interpretar seus acessos como um ataque DDOS. Como lidaria com essa situação?
+  * Um cliente liga reclamando que está fazendo muitos acessos ao seu site e aumentando seus custos com infra. Como resolveria esse problema?
 
 [1] Uma página de produto é a que contém as informações (nome, preço, disponibilidade, descrição etc.) de apenas um produto. Home page, páginas de busca ou categoria não são consideradas páginas de produto. 
 
