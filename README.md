@@ -38,6 +38,7 @@ Levamos **MUITO** a sério código limpo e organizado. Nossa dica é: Olhe um c�
 * [TDD. Desenvolvimento Guiado por Testes](https://www.amazon.com.br/TDD-Desenvolvimento-Guiado-por-Testes/dp/857780724X)
 * [O Programador Pragmático: De Aprendiz a Mestre](https://www.amazon.com/Programador-Pragm%C3%A1tico-Aprendiz-Mestre-Portuguese-ebook/dp/B019HM0H90)
 * [O Codificador Limpo](https://www.amazon.com.br/O-Codificador-Limpo-Bob-Martin/dp/8576086476)
+* [Practices of an Agile Developer: Working in the Real World](https://www.amazon.com/Practices-Agile-Developer-Pragmatic-Bookshelf/dp/097451408X)
 
 Bad smells muito comuns que vemos em nossos desafios:
 
