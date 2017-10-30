@@ -49,6 +49,6 @@ Bad smells muito comuns que vemos em nossos desafios:
 * Muitos if/else.
 * Uso de estruturas de dados inadequadas. `for barcode in {12345}:` por exemplo.
 * Funções/métodos com muitos parâmetros (mais de 3).
-* `print`, `import ipdb`... Use esse [_hook pre-commit_](https://gist.github.com/eduardo-matos/8555eb3d6511dff5eed9). Sério!
+* `print`, `import ipdb`...
 * Retornar estado de erro em vez de levantar exceção.
 * Não prover instruções de instalação (readme, makefile...). Quem faz com Docker ganha uma barra de chocolate!
