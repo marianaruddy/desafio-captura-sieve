@@ -8,10 +8,13 @@ def create_project_dir(directory):
 def create_data_files(project_name, base_url):
     queue = project_name + '/queue.csv'
     crawled = project_name + '/crawled.csv'
+    error = project_name + '/error.csv'
     if not os.path.isfile(queue):
         write_file(queue, base_url)
     if not os.path.isfile(crawled):
         write_file(crawled, '')
+    if not os.path.isfile(error):
+        write_file(error, '')
 
 def write_file(path, data):
     f = open(path, 'w')
