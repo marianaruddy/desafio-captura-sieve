@@ -7,8 +7,8 @@ from general import *
 PROJECT_NAME = 'epocacosmeticos'
 HOMEPAGE = 'http://www.epocacosmeticos.com.br/'
 DOMAIN_NAME = get_domain_name(HOMEPAGE)
-QUEUE_FILE = PROJECT_NAME + '/queue.txt'
-CRAWLED_FILE = PROJECT_NAME + '/crawled.txt'
+QUEUE_FILE = PROJECT_NAME + '/queue.csv'
+CRAWLED_FILE = PROJECT_NAME + '/crawled.csv'
 NUMBER_OR_THREADS = 8
 queue = Queue()
 Spider(PROJECT_NAME, HOMEPAGE, DOMAIN_NAME)
