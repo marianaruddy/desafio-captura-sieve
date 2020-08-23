@@ -9,6 +9,7 @@ HOMEPAGE = 'http://www.epocacosmeticos.com.br/'
 DOMAIN_NAME = get_domain_name(HOMEPAGE)
 QUEUE_FILE = PROJECT_NAME + '/queue.csv'
 CRAWLED_FILE = PROJECT_NAME + '/crawled.csv'
+ERROR_FILE = PROJECT_NAME + '/error.csv'
 NUMBER_OR_THREADS = 8
 queue = Queue()
 Spider(PROJECT_NAME, HOMEPAGE, DOMAIN_NAME)
